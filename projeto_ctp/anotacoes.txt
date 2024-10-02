@@ -1,0 +1,2 @@
+python -m ensurepip : Instala o pip
+python -m pip install pdfminer.six openpyxl : Para instalar as bibliotecas pdfminer e openpyxl
